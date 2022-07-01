@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saifgames/static/css/main.4d8ff7f5.css",
+    "main.js": "/saifgames/static/js/main.dd3a42b8.js",
+    "static/media/square.png": "/saifgames/static/media/square.a91a2010782a21638f0d.png",
+    "static/media/last galaxy.png": "/saifgames/static/media/last galaxy.563b5aaf63848c4c3c34.png",
+    "static/media/cover1.jpg": "/saifgames/static/media/cover1.4d60a0811bc6eeff4371.jpg",
+    "static/media/last soul.jpg": "/saifgames/static/media/last soul.76f5b5650707d0ee5f69.jpg",
+    "static/media/logo.png": "/saifgames/static/media/logo.87ae5be6bef47d58ba69.png",
+    "static/media/cover2.jpg": "/saifgames/static/media/cover2.7de3b565c0eda5ed5335.jpg",
+    "static/media/hero.svg": "/saifgames/static/media/hero.1fa8f2f59e8ebedd4168b19a5c2421a9.svg",
+    "index.html": "/saifgames/index.html",
+    "main.4d8ff7f5.css.map": "/saifgames/static/css/main.4d8ff7f5.css.map",
+    "main.dd3a42b8.js.map": "/saifgames/static/js/main.dd3a42b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8ff7f5.css",
+    "static/js/main.dd3a42b8.js"
+  ]
+}
