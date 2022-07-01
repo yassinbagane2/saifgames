@@ -1,0 +1,22 @@
+.error-modal {
+    width: 20rem;
+    height: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #881337;
+    position: absolute;
+    top: 4rem;
+    left: 60%;
+}
+
+
+.btn {
+    border: #881337;
+    border-radius: 5px;
+    background-color: #881337;
+    padding: 3px 10px;
+    color: white;
+    cursor: pointer;
+}
